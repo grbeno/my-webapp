@@ -1,14 +1,14 @@
 ### Virtual environment
 ```
+cd <my-webapp>
+```
+```
 python -m venv venv
 ```
 ```
 venv\Scripts\Activate
 ```
 ### Python requirements
-```
-cd <my-webapp>
-```
 ```
 pip install -r requirements.txt
 ```
