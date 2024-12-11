@@ -7,6 +7,9 @@ venv\Scripts\Activate
 ```
 ### Python requirements
 ```
+cd <my-webapp>
+```
+```
 pip install -r requirements.txt
 ```
 ### Postgres
